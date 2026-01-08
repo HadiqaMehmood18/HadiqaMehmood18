@@ -37,26 +37,23 @@ strengthen problem-solving skills, system design, and core development fundament
 - Multisim
 - MS Visio
 - Canva
+- SQL Server
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[FREELANCIA – Student Freelance Marketplace](https://github.com/HadiqaMehmood18/Freelancia)** 
-  A full-stack MERN web application that allows students to connect with clients.  
-  Features include authentication, job posting, real-time messaging, and a review system.
-  url: https://github.com/HadiqaMehmood18/Freelancia
+  A full-stack MERN web application that allows students to connect with clients. Features include authentication, job posting, real-time messaging, and a review system.
 
 - **[Snake Game - C++ / SFML](https://github.com/HadiqaMehmood18/Snake-Game)**  
-  A retro-style snake game focusing on array-based movement, collision detection,
-  score tracking, and game loop logic.
+  A retro-style snake game focusing on array-based movement, collision detection, score tracking, and game loop logic.
 
 - **[Flappy Bird Game](https://github.com/HadiqaMehmood18/Flappy-Bird-Game)**  
   A Java-based implementation of the classic game using object-oriented programming principles.
 
 - **[University Networking System](https://github.com/HadiqaMehmood18/University-Networking-System)** 
-  A simulated LAN/WAN university network built in Cisco Packet Tracer using routers,
-  switches, subnetting, and VLAN segmentation.
+  A simulated LAN/WAN university network built in Cisco Packet Tracer using routers, switches, subnetting, and VLAN segmentation.
 
 - **[SGMS – Student Grievance Management System](https://github.com/HadiqaMehmood18/SGMS-Student-Grievance-Management-System)**
 A web-based system developed with Node.js, Express.js, and SQL Server to automate grievance submission and tracking.
