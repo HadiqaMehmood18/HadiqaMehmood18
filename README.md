@@ -1,8 +1,9 @@
 ## Hi, I'm Hadiqa Mehmood 👋
 
-I am a BS Information Technology student with hands-on experience in full-stack web development,
-software programming, and networking simulations. I enjoy building practical projects that
-strengthen problem-solving skills, system design, and core development fundamentals.
+I am a BS Information Technology student with a solid foundation in programming, web technologies, and computer  
+Networks. Currently developing practical skills in full-stack development using the MERN stack and continuously  
+improving through hands-on learning. A motivated and detail-oriented learner eager to contribute, adapt, and grow  
+in a professional environment. 
 
 ---
 
