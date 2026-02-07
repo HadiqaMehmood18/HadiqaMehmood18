@@ -1,5 +1,5 @@
 ## Hi, I'm Hadiqa Mehmood 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 I am a BS Information Technology student with a solid foundation in programming, web technologies, and computer  
 Networks. Currently developing practical skills in full-stack development using the MERN stack and continuously  
 improving through hands-on learning. A motivated and detail-oriented learner eager to contribute, adapt, and grow  
