@@ -68,10 +68,11 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 ---
 
 ### 📜 Certifications
-- Super Comp’2024 – BUCIS (Bahria University Karachi Campus)
+- Super Comp’2024 – Code in the Dark Competition – BUCIS (Bahria University Karachi Campus)
 - AI Powered Dashboards – DataCrumbs
 - No-code Web Development – DataCrumbs
 - The Cyber Kill Chain Webinar – The Cyber SOC
+- Teknofest ’25 – UI/UX Design Competition – BUCIS (Bahria University Karachi Campus)
 
 ---
 
