@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadiqa+Mehmood)](https://git.io/typing-svg)
 
-I am a BS Information Technology student with a solid foundation in programming, web technologies, and computer Networks.  
+I am a BS Information Technology student with a solid foundation in programming, web technologies, and computer networks.  
 Currently developing practical skills in full-stack development using the MERN stack and continuously improving through hands-on learning. 
 A motivated and detail-oriented learner eager to contribute, adapt, and grow in a professional environment. 
 
