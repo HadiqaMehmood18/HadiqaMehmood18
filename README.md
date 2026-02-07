@@ -62,10 +62,10 @@ in a professional environment.
   A simulated LAN/WAN university network built in Cisco Packet Tracer using routers, switches, subnetting, and VLAN segmentation.
 
 - **[SGMS – Student Grievance Management System](https://github.com/HadiqaMehmood18/SGMS-Student-Grievance-Management-System)**
-A web-based system developed with Node.js, Express.js, and SQL Server to automate grievance submission and tracking.
+  A web-based system developed with Node.js, Express.js, and SQL Server to automate grievance submission and tracking.
 
 - **[Water Level Indicator](https://github.com/HadiqaMehmood18/Water-Level-Indicator)**
-A water level detection system using sensors and logic gates, with simulation done in Multisim.
+  A water level detection system using sensors and logic gates, with simulation done in Multisim.
 ---
 
 ### 📜 Certifications
