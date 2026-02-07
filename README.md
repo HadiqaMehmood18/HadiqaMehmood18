@@ -1,5 +1,4 @@
 ## Hi, I'm Hadiqa Mehmood 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 I am a BS Information Technology student with a solid foundation in programming, web technologies, and computer  
 Networks. Currently developing practical skills in full-stack development using the MERN stack and continuously  
 improving through hands-on learning. A motivated and detail-oriented learner eager to contribute, adapt, and grow  
@@ -16,29 +15,34 @@ in a professional environment.
 
 ---
 
-### 💻 Tech Stack
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiqaMehmood18/HadiqaMehmood18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadiqa-mehmood-215519328)
 
-**Programming Languages**
-- JavaScript
-- Java
-- C++
-- Python
+---
 
-**Frameworks & Libraries**
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- SFML
+## 💻 Tech Stack:
 
-**Tools & Platforms**
-- GitHub
-- VS Code
-- Cisco Packet Tracer
-- Multisim
-- MS Visio
-- Canva
-- SQL Server
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 ---
 
@@ -68,12 +72,6 @@ A water level detection system using sensors and logic gates, with simulation do
 - AI Powered Dashboards – DataCrumbs
 - No-code Web Development – DataCrumbs
 - The Cyber Kill Chain Webinar – The Cyber SOC
-
----
-
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/hadiqa-mehmood-215519328
-- Email: hadiqamehmood18@gmail.com
 
 ---
 
