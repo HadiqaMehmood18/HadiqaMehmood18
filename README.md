@@ -18,7 +18,7 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HadiqaMehmood18/HadiqaMehmood18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadiqamehmood)
-[![Instagram](https://img.shields.io/badge/Instagram-%C72E49.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hadiqamehmood18)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hadiqamehmood18)
 
 ---
 
