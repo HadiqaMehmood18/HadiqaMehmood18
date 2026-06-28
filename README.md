@@ -7,7 +7,7 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 ---
 
 ### 🔭 Current Focus
-- Developing full-stack MERN applications
+- Developing full-stack applications (MERN, Python)
 - More interest in frontend development
 - Strengthening backend development and REST API design
 - Improving object-oriented programming and data structures
@@ -40,6 +40,7 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://seeklogo.com/vector-logo/354673/jupyter)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -51,9 +52,11 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 ---
 
 ### 🚀 Featured Projects
-
+- **[Healthcare-Risk-Prediction-System]([https://github.com/HadiqaMehmood18/Freelancia](https://github.com/HadiqaMehmood18/Healthcare-Risk-Prediction-System))** 
+  The Healthcare Risk Prediction System is a machine learning-based application developed to predict the risk of two common chronic diseases:       Diabetes Mellitus and Heart Disease
+  
 - **[FREELANCIA – Student Freelance Marketplace](https://github.com/HadiqaMehmood18/Freelancia)** 
-  A full-stack MERN web application that allows students to connect with clients. Features include authentication, job posting, real-time messaging, and a review system.
+  A full-stack MERN web application that allows students to connect with clients. Features include authentication, job posting, real-time           messaging, and a review system.
 
 - **[Snake Game - C++ / SFML](https://github.com/HadiqaMehmood18/Snake-Game)**  
   A retro-style snake game focusing on array-based movement, collision detection, score tracking, and game loop logic.
