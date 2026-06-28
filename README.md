@@ -53,7 +53,7 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 ---
 
 ### 🚀 Featured Projects
-- **[Healthcare-Risk-Prediction-System]([https://github.com/HadiqaMehmood18/Freelancia](https://github.com/HadiqaMehmood18/Healthcare-Risk-Prediction-System))** 
+- **[Healthcare-Risk-Prediction-System](https://github.com/HadiqaMehmood18/Healthcare-Risk-Prediction-System)** 
   The Healthcare Risk Prediction System is a machine learning-based application developed to predict the risk of two common chronic diseases:       Diabetes Mellitus and Heart Disease
   
 - **[FREELANCIA – Student Freelance Marketplace](https://github.com/HadiqaMehmood18/Freelancia)** 
