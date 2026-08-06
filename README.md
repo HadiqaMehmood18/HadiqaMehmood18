@@ -67,6 +67,9 @@ A motivated and detail-oriented learner eager to contribute, adapt, and grow in 
 - **[FREELANCIA – Student Freelance Marketplace](https://github.com/HadiqaMehmood18/Freelancia)** 
   A full-stack MERN web application that allows students to connect with clients. Features include authentication, job posting, real-time           messaging, and a review system.
 
+- **[Senior Citizen Portal / Figma](https://github.com/HadiqaMehmood18/Senior-Citizen-Portal-Figma-)**  
+  A modern and responsive Senior Citizen Portal UI/UX design created in Figma, featuring a clean interface, intuitive navigation, and user-centered design principles.
+  
 - **[Snake Game - C++ / SFML](https://github.com/HadiqaMehmood18/Snake-Game)**  
   A retro-style snake game focusing on array-based movement, collision detection, score tracking, and game loop logic.
 
